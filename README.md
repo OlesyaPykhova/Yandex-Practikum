@@ -15,4 +15,4 @@
 *В корне репозитория обязательно должен быть файл README.md. В этом файле должна быть структура репозитория: проекты, их краткое описание, что в какой папке находится.*
 
 
-[Исследование задолженности заемщиков](https://github.com/OlesyaPykhova/Yandex_Praktikum_Projects/tree/main/Borrower_Reliability_Research)
+[Исследование задолженности заемщиков](https://github.com/OlesyaPykhova/Yandex_Praktikum_Projects/blob/main/Borrower_Reliability_Research/P1_Borrowers_reliability.ipynb)
