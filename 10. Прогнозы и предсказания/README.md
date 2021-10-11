@@ -28,7 +28,7 @@
 - доля оттока для кластеров
 
 
-**Используемые библиотеки:**  pandas, numpy, matplotlib.pyplot, plotly, plotly.express, seaborn, sklearn.model_selection, sklearn.linear_model, sklearn.ensemble, sklearn.metrics, sklearn.preprocessing, scipy.cluster.hierarchy, sklearn.cluster
+**Используемые библиотеки:**  pandas, numpy, matplotlib.pyplot, plotly, plotly.express, seaborn, sklearn.model_selection, sklearn.linear_model, sklearn.ensemble, sklearn.metrics, sklearn.preprocessing, scipy.cluster.hierarchy
 
 Исходный код решения каждого этапа, а также итоговые результаты исследования и выводы можно найти в [блокноте](https://clck.ru/XAv7o).
 
