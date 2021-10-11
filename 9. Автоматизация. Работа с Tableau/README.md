@@ -12,7 +12,7 @@
     * Как соотносятся темы карточек и темы источников?
   
 **Ссылка на дашборд:**
-https://public.tableau.com/profile/olesya8526#!/vizhome/37542/Dashboard1?publi sh=yes
+https://public.tableau.com/profile/olesya8526#!/vizhome/37542/Dashboard1?publi
 
 **Презентация результатов исследования**
 https://disk.yandex.ru/d/EJgwjrZlueySeg
